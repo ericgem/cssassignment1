@@ -2,7 +2,7 @@
 
 My name is Eric Darkwah. I am a Ruby on Rails developer.
 
-This my first project learning HTML5, CSS, Bootstrap, Javascript, Jquery etc. 
+This is my first project learning HTML5, CSS, Bootstrap, Javascript, Jquery etc. 
 
 This is my first CSS3 Assignment1 to be completed.
 
