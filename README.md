@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+My name is Eric Darkwah. I am a Ruby on Rails developer.
 
-Things you may want to cover:
+This my first project learning HTML5, CSS, Bootstrap, Javascript, Jquery etc. 
 
-* Ruby version
+This is my first CSS3 Assignment1 to be completed.
 
-* System dependencies
+I am excited to learn more tech stuff. This is a great learning experience for me
 
-* Configuration
+My phone number: +233 0123202827
 
-* Database creation
+Address: 1234 ghana drive
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Occupation: Software Enginee
